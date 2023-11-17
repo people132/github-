@@ -1,6 +1,9 @@
-https://github.com/KIEL13 Герасимов Игорь
-https://github.com/Stason777155 Лобышев Стас
-https://github.com/people132 Куприянов Владимир
-https://github.com/mg12345mg Гасанбеков Магомедвели
-https://github.com/Sienser Мейнаровичь Дмитрий
-https://github.com/Mikki376 Мкртчян Михаил
+(https://github.com/KIEL13 Герасимов Игорь)
+(https://github.com/Stason777155 Лобышев Стас)
+(https://github.com/people132 Куприянов Владимир)
+(https://github.com/mg12345mg Гасанбеков Магомедвели)
+(https://github.com/Sienser Мейнаровичь Дмитрий)
+(https://github.com/Mikki376 Мкртчян Михаил)
+(https://github.com/Irusick Красноперова Ирина)
+(https://github.com/Nickixer Георгий Старых)
+(https://github.com/Sera228 Емашкин Сергей)

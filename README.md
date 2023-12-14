@@ -8,3 +8,4 @@
 (https://github.com/Nickixer Георгий Старых)
 (https://github.com/Sera228 Емашкин Сергей)
 (https://github.com/NiteNelll/Nelll Косакян Рафаэл)
+(https://github.com/sashaYastrebov Саша Ястребов)

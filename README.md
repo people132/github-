@@ -12,3 +12,5 @@
 (https://github.com/gulyaaa18/gulyaaa Асгарли Гулар)
 (https://github.com/memeoka/Mirea-osnova/tree/main/HorizonSideRobotsPractice-main Рябуха Алексей)
 (https://github.com/moskovk/domashk Маргарита Московка)
+(https://github.com/salazar247/Lazarenko/tree/main Лазаренко Даниил)
+(https://github.com/abdulakim25/lezgistan228 Рамазанов Абдулаким)
